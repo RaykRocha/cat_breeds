@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:nac_gatos/models/gato_model.dart';
 import 'package:nac_gatos/repository/gato_repository.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:nac_gatos/screens/Dialog.dart';
+import 'package:nac_gatos/screens/dialog.dart';
 
 class GatosScreen extends StatefulWidget {
   @override
