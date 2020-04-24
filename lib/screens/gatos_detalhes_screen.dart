@@ -79,7 +79,7 @@ class GatosDetalhesScreen extends StatelessWidget {
     final bottomContent = Container(
         decoration: BoxDecoration(color: Color(0xff6173BD)),
         width: MediaQuery.of(context).size.width,
-        padding: EdgeInsets.all(32.0),
+        padding: EdgeInsets.all(22.0),
         child: new Column(
           children: <Widget>[
             Text(

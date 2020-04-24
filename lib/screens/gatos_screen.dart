@@ -132,7 +132,7 @@ class _GatosScreenState extends State<GatosScreen> {
                 gato.pesoMedio,
                 style: regularTextStyle,
               ),
-              new Container(width: 42.0),
+              new Spacer(),
               new Material(
                 borderRadius: BorderRadius.circular(24),
                 color: Color(0xff6173BD),
