@@ -1,3 +1,4 @@
+
 # Raça de gatos
 
 ## 💻 Projeto
@@ -13,6 +14,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📱 Take a look
 <h1 align="center">
-    <img alt="Cat Breeds" src=".github/release.gif" />
-</h1>
-
+    <img src="screenList.gif" width="250"/>
+    <img src="screenDetails.gif" width="250"/>
+</h1
