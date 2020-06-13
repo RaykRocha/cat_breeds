@@ -2,7 +2,7 @@
 # Raça de gatos
 
 ## 💻 Projeto
-Projeto desenvolvido em Flutter para a disciplina de Desenvolvimento Cross Platform com informçãos sobre raças de gatos.
+Projeto desenvolvido em Flutter para a disciplina de Desenvolvimento Cross Platform com informações sobre raças de gatos.
 
 ## 🚀 Tecnologias
 
